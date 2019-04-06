@@ -20,7 +20,7 @@
     <div class="grid fd-column gs12 gsy">
         <div class="grid--cell">
             <span class="badge-tag">
-                <span class="badge2"></span> <input type="text" id="GM_custom_input" class="p4" maxlength="35" placeholder="custom badge here..." />
+                <span class="badge3"></span> <input type="text" id="GM_custom_input" class="p4" maxlength="35" placeholder="custom badge here..." />
             </span>
         </div>
         <div class="grid--cell">
