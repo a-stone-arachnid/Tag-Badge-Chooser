@@ -9,3 +9,13 @@ So naturally, I made a userscript.
 [Get it here](https://github.com/a-stone-arachnid/Tag-Badge-Chooser/raw/master/chooser.user.js).
 
 [Xufox]: https://meta.stackoverflow.com/users/4642212/xufox
+
+## Instructions ##
+
+1. Install this script in Tampermonkey.
+1. Go to your user profile.
+1. Click on the tag tracker.
+1. Click the text field badge and enter your custom tag badge
+1. Click the option in the selector that has the text field to save it
+
+You are now a l337 h4ck3r!
