@@ -6,4 +6,6 @@ spicy.
 
 So naturally, I made a userscript.
 
+[Get it here](https://github.com/a-stone-arachnid/Tag-Badge-Chooser/raw/master/chooser.user.js).
+
 [Xufox]: https://meta.stackoverflow.com/users/4642212/xufox
